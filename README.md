@@ -33,20 +33,5 @@ Ele resolve um problema comum no ambiente de BI e Análise de Dados: a dificulda
 
 ***
 
-## 2. Publicação no Portfólio (LinkedIn e Currículo)
 
-Use o seguinte formato para descrever o projeto em plataformas de portfólio:
 
-**Título do Projeto:** Assistente de Fórmulas de Excel com IA Generativa (Gemini AI)
-
-**Resumo (use em seu LinkedIn):**
-> **Desenvolvi uma solução End-to-End (ponta a ponta) que utiliza a API do Google Gemini para transformar intenções em linguagem natural em fórmulas de Excel e Google Sheets.** O aplicativo, construído em **Python** e **Streamlit**, resolve problemas de sintaxe de planilha com precisão de IA. A arquitetura demonstra proficiência em **Prompt Engineering**, desenvolvimento de *backend* e *deploy* em nuvem.
-
-**Links Obrigatórios:**
-
-1.  **Link do Aplicativo em Produção:** ([Seu link no Streamlit Cloud: `https://seunome.streamlit.app`](https://excel-formula-assistant-gemini-e6e2gzzeber3k6uhwmucvz.streamlit.app/))
-2.  **Link do Código Fonte:** (Seu repositório no GitHub: `https://github.com/jadielluis-santos/excel-formula-assistant-gemini`)
-
----
-
-**Com estas etapas, o seu projeto está oficialmente finalizado, documentado e publicado. Parabéns pela sua conquista!**
